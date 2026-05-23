@@ -1,6 +1,6 @@
-# Alien-Killer-game-python-
+# Alien-Killer-Python-game
 A retro-style 2D space shooter where you control a spaceship to fight off waves of descending aliens. Built from scratch using Python and Pygame. Features smooth movement, bullet mechanics, collision detection, a scoring system with high score tracking, multiple lives, and progressively harder levels.
-# 👾 Alien Invasion
+# 👾 Alien Killer
 
 A classic 2D space shooter game built with Python and Pygame. Defend Earth by shooting down waves of aliens before they reach the bottom of the screen!
 
